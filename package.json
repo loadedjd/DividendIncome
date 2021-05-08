@@ -1,0 +1,17 @@
+{
+  "name": "stonks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "dotenv": "^9.0.0",
+    "iexjs": "^0.2.5",
+    "ts-node": "^9.1.1"
+  }
+}
