@@ -2,7 +2,7 @@
 
 Very simple tool to calculate annual dividend income
 
-# Install dependecies
+# Install dependencies
 
 npm i
 
